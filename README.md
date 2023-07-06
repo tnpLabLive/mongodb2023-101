@@ -20,7 +20,7 @@
 [MongoDB Internal Architecture video](https://www.youtube.com/watch?v=ONzdr4SmOng)
 
 ### Commands
-###### 1. Switch/Create dababase
+###### 1. Switch/Create database
 ```
 use database_name
 ```
